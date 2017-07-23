@@ -97,7 +97,7 @@
             </header><!-- end header -->
         </div><!-- end container -->
         <div id="page_header">
-            <div id="parallax" class="parallax bgback bg" style="background-image: url('images/biblia.jpg');" data-stellar-background-ratio="0.6" data-stellar-vertical-offset="20"></div>
+            <div id="parallax" class="parallax bgback bg" style="background-image: url('images/biblia4.jpg');" data-stellar-background-ratio="0.6" data-stellar-vertical-offset="20"></div>
 
 
             <div class="container text-center header-part">
