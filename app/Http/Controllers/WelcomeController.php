@@ -25,9 +25,9 @@ class WelcomeController extends Controller
 
     private function geraBiblia(){
     	$info = file_get_contents($this->arquivo);
-		$this->lendo = json_decode($info);
-	 	$this->biblia = new Biblia('','','');
-	 	$this->geraLivro(); //DOU INICIO AO METODO QUE DESENCADEARA A PALAVRA FINAL
+			$this->lendo = json_decode($info);
+	 		$this->biblia = new Biblia('','','');
+	 		$this->geraLivro(); //DOU INICIO AO METODO QUE DESENCADEARA A PALAVRA FINAL
  		}
 
 //METODO QUE INICIA VINDO DAS ROTAS
