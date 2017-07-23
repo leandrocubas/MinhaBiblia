@@ -25,45 +25,45 @@ class Biblia
 		// Getter and setter for $this->versiculo
 	public function getVersiculo()
 	{
-	    return $this->versiculo;
+		return $this->versiculo;
 	}
 	public function setVersiculo($versiculo)
 	{
-	    $this->versiculo = $versiculo;
-	    return $this;
+		$this->versiculo = $versiculo;
+		return $this;
 	}
 
 	// Getter and setter for $this->capitulo
 	public function getCapitulo()
 	{
-	    return $this->capitulo;
+		return $this->capitulo;
 	}
 	public function setCapitulo($capitulo)
 	{
-	    $this->capitulo = $capitulo;
-	    return $this;
+		$this->capitulo = $capitulo;
+		return $this;
 	}
 
 	// Getter and setter for $this->livro
 	public function getLivro()
 	{
-	    return $this->livro;
+		return $this->livro;
 	}
 	public function setLivro($livro)
 	{
-	    $this->livro = $livro;
-	    return $this;
+		$this->livro = $livro;
+		return $this;
 	}
 
 	// Getter and setter for $this->palavra
 	public function getPalavra()
 	{
-	    return $this->palavra;
+		return $this->palavra;
 	}
 	public function setPalavra($palavra)
 	{
-	    $this->palavra = $palavra;
-	    return $this;
+		$this->palavra = $palavra;
+		return $this;
 	}
 
 
